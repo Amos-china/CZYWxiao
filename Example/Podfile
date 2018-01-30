@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CZYWxiao_Example' do
+  pod 'CZYWxiao', :path => '../'
+
+  target 'CZYWxiao_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
