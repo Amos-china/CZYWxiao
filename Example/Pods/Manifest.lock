@@ -1,0 +1,16 @@
+PODS:
+  - CZYWxiao (0.1.0)
+
+DEPENDENCIES:
+  - CZYWxiao (from `../`)
+
+EXTERNAL SOURCES:
+  CZYWxiao:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CZYWxiao: 0f500b73384c5db7d1a3c501c041e8cb8b8789e7
+
+PODFILE CHECKSUM: 3f4abbe9446372ce16e35ee617fbe6a65d54fdc0
+
+COCOAPODS: 1.2.1
